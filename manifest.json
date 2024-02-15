@@ -1,56 +1,56 @@
 {
-   "name":"ZeistMaid v1.2",
-   "short_name":"ZeistMaid v1.2",
-   "start_url":"https://zeistmaid.blogspot.com",
+   "name":"Equal Secrets",
+   "short_name":"Equal Secrets",
+   "start_url":"https://www.equalsecrets-yaoi.my.id",
    "display":"standalone",
-   "background_color":"#222",
-   "theme_color":"#222",
-   "description":"Baca Manga Dan Novel Bahasa indonesia, Menyajikan Manga Dan Novel Yang Seru Dan Mendebarkan Sekaligus Penuh Dengan Gula",
+   "background_color":"#ffffff",
+   "theme_color":"#6a329f",
+   "description":"Equal Secrets merupakan Translator Community atau Fan Translation yang berkomitmen untuk menyediakan Terjemahan Bahasa Indonesia berkualitas tinggi.",
    "icons":[
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",
          "sizes":"36x36",
          "type":"image/png",
          "density":"0.75"
       },
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",
          "sizes":"48x48",
          "type":"image/png",
          "density":"1.0"
       },
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",
          "sizes":"72x72",
          "type":"image/png",
          "density":"1.5"
       },
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",
          "sizes":"96x96",
          "type":"image/png",
          "density":"2.0"
       },
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",
          "sizes":"144x144",
          "type":"image/png",
          "density":"3.0"
       },
       {
-       "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilgyEvZ1p1jhSuVxWX291_pzBsPfXoeVV2XcVnzmxPJ6SRtPoXIRls2yI9KsE-GrNf4fTJS1yhF-axj2iXcn1kX5ngQ8bu2xam5EoVlgwLC5wX5ODNzQipbKUs3Q8vPgX41xMOrngwhQfffr97c13FUywR1AQLSzpef6DkZZkbOJKupnQ4Y_uf8zRryf4/s1600/apple-touch-icon.png",
+       "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyIN85VKtZCDPCD-speMtxTEVpnGA8Hcyr7GyjOEQo0xSWVYWUqQsz7TyMzVyg_fuztIIPojHh7AAoGPTwC-c3cmKbv1yfSGDCdeeqt6lnz2IWzp1ic6s0xhxqFPhvxieBTgmOej1Z4UGz0coGC_cndwc-z0LkvZ3E3jxq8G-20O1oMtSNdfmG1XRT2Yg/s1600/equal-secrets-apple-touch-icon.png",
          "sizes":"180x180",
          "type":"image/png",
          "density":"4.5"
 	   },
       {
-         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXKiBvtpjJpLh490N8P9t-YoAedZCpTw28KqyiURuRwv1K7S3aDOoxpTLEb97H-AU4xb7L7AXVnwPDdKk29xOj6M-nadgeoh-EqT2kkyChmjeOJT5ubMOurpVYhVjzhUY8NLDP5aH-ewurW-u-wJfuCSPvjUSnqZzra1bs7nLrWPmrhWRenLB8XAp9hVg/s192/android-chrome-192x192.png",
+         "src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxwUVDT4jU1okLykU9zgxLkS1BThSIZKaNDNSHA3qZvLbAreWw0FaMHt-vQJUq2DiY_T9cn6MHY5E3M50DrtquegK4l1fz42MlRqp45pJz_RJEeP0lBQJKpCaUEBuqQPX47PcoGT9ZBHwZaD7KLQ82ZpU3D2yBIVzkgK228OdcXOa_jAWSjTQk2EVYTkY/s1600/equal-secrets-chrome-192x192.png",
          "sizes":"192x192",
          "type":"image/png",
          "density":"4.0"
       },
       {
-"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzNM4f7qG2Y4_K3mDlhPXEJAKLxdLilRBtXR2NZ_rCJzpGhwi1hv4cAI-vXIHgwP7KpFrN03CykuwwI8azKh6NxgV40U0dlPFsd1OWJZWz01YF-2wGUHH_IUAwI_VICqZLw86wPqshO0F80-OlGmTQnz2OKAaHVii0aEXo94GlXkSfjuaoeiQBCOD2BLk/s512/android-chrome-512x512.png",     
+	"src":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia05RT_Epsp7CdX0m0uhl1mtzgFQG0WpYcrHk8dsHyrtE6v2eR44WgdlsIbOIDXZaJ6w1uS1By-jdDldMMfGsDcn0hCAyRMn3Vz9V8s266yqoBZ2fSvYXoqurzrSX3NNDgl-OR8EzSQSz6OjO0VJ7xYmBzgMuLZkwKBO1ei-VryXR_Xbm8wKzFkwTSUTw/s1600/equal-secrets-chrome-512x512.png",     
          "sizes":"512x512",
          "type":"image/png",
          "density":"5.0"
