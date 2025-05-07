@@ -1,0 +1,196 @@
+{
+   "name": "V2 HAN HANHAOYU",
+   "short_name": "V2 HAN HAOYU",
+   "start_url": "https://v2.hanhaoyu.com/",
+   "display": "standalone",
+   "background_color": "#ffffff",
+   "theme_color": "#000000",
+   "description": "Equal Secrets merupakan Translator Community atau Fan Translation yang berkomitmen untuk menyediakan Terjemahan Bahasa Indonesia berkualitas tinggi.",
+   "version": "1.2",
+   "developer": "Han Haoyu",
+   "keywords": "komik, novel, streaming, wattpad, fan fiction",
+   "author": "Han Haoyu",
+   "content_type": "komik, novel, fan fiction, streaming",
+   "lang": "id",
+   "age_verification": "18+",
+   "copyright": "Equal Secrets",
+   "app_rating": 5,
+   "social_media": {
+       "facebook": "https://v2.hanhaoyu.com/p/facebook.html",
+       "twitter": "https://v2.hanhaoyu.com/p/twitter.html",
+       "instagram": "https://v2.hanhaoyu.com/p/instagram.html",
+       "linkedin": "https://v2.hanhaoyu.com/p/linkedin.html"
+   },
+   "privacy_policy": "https://v2.hanhaoyu.com/p/privacy-policy.html",
+   "terms_of_service": "https://v2.hanhaoyu.com/p/terms-and-conditions.html",
+   "icons": [
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "36x36",
+         "type": "image/png",
+         "density": "0.75"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "48x48",
+         "type": "image/png",
+         "density": "1.0"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "72x72",
+         "type": "image/png",
+         "density": "1.5"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "96x96",
+         "type": "image/png",
+         "density": "2.0"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "144x144",
+         "type": "image/png",
+         "density": "3.0"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "192x192",
+         "type": "image/png",
+         "density": "4.0"
+      },
+      {
+         "src": "https://blogger.googleusercontent.com/img/a/AVvXsEga21-hhEMaNAufNayprZKQGj8ogS8NJtlxN6SmyAeLuFnw9oncXZBUi-mrQKTZG297p0XmT9V2nWfH-5D0IL5DRPtFCUyZ7JvxF8XgFTh6K6l4LYJXqa8SH-UnGK9-yTQVreB3PG2gzztwHQ2oNg6H7jC0aj4qOAqbdCtgE5yK99iq6kU-Ui-RX8DJlr8=s500",
+         "sizes": "512x512",
+         "type": "image/png",
+         "density": "5.0"
+      }
+   ],
+   "shortcuts": [
+      {
+         "name": "Login",
+         "url": "https://v2.hanhaoyu.com/p/login.html",
+         "description": "Masuk ke akun Anda"
+      },
+      {
+         "name": "Profile",
+         "url": "https://v2.hanhaoyu.com/p/profile.html",
+         "description": "Lihat profil Anda"
+      },
+      {
+         "name": "Register",
+         "url": "https://v2.hanhaoyu.com/p/register.html",
+         "description": "Daftar akun baru"
+      },
+      {
+         "name": "Paket Premium",
+         "url": "https://v2.hanhaoyu.com/p/paket-premium.html",
+         "description": "Lihat paket premium yang tersedia"
+      },
+      {
+         "name": "List Judul - Sitemap",
+         "url": "https://v2.hanhaoyu.com/p/sitemap-v5.html",
+         "description": "Lihat daftar judul"
+      },
+      {
+         "name": "Translator",
+         "url": "https://v2.hanhaoyu.com/p/translator.html",
+         "description": "Informasi tentang translator"
+      },
+      {
+         "name": "Layanan Tambahan",
+         "url": "https://v2.hanhaoyu.com/p/layanan-tambahan.html",
+         "description": "Layanan yang kami tawarkan"
+      },
+      {
+         "name": "Affiliates",
+         "url": "https://v2.hanhaoyu.com/p/affiliates.html",
+         "description": "Program afiliasi"
+      },
+      {
+         "name": "Partnership",
+         "url": "https://v2.hanhaoyu.com/p/partnership.html",
+         "description": "Informasi kemitraan"
+      },
+      {
+         "name": "Contact Us",
+         "url": "https://v2.hanhaoyu.com/p/contact-us_16.html",
+         "description": "Hubungi kami"
+      }
+   ],
+   "telegram_groups": [
+      {
+         "name": "Telegram Group",
+         "url": "https://t.me/hanhaoyucom"
+      },
+      {
+         "name": "Telegram Channel",
+         "url": "https://t.me/v2hanhaoyu"
+      }
+   ],
+   "categories": [
+      {
+         "name": "Manhwa",
+         "url": "https://v2.hanhaoyu.com/search/label/Manhwa"
+      },
+      {
+         "name": "Manga",
+         "url": "https://v2.hanhaoyu.com/search/label/Manga"
+      },
+      {
+         "name": "Manhua",
+         "url": "https://v2.hanhaoyu.com/search/label/Manhua"
+      },
+      {
+         "name": "POV",
+         "url": "https://v2.hanhaoyu.com/search/label/POV"
+      },
+      {
+         "name": "Doujinshi",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Doujinshi"
+      },
+      {
+         "name": "Drama",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Drama"
+      },
+      {
+         "name": "Novel",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Novel"
+      },
+      {
+         "name": "Fan Art",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Fan-Art"
+      },
+      {
+         "name": "Donghua",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Donghua"
+      },
+      {
+         "name": "Anime",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Anime"
+      },
+      {
+         "name": "Asupan",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Asupan"
+      },
+      {
+         "name": "Spoiler",
+         "url": "https://www.equalsecrets-yaoi.my.id/search/label/Spoiler"
+      }
+   ],
+   "screenshots": [
+      {
+         "label": "Welcome",
+         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFf9U2bCLNTRyjaM0zDlabgu2Uj60YVTplRoj_PZHI1LZWf4FpftUuBVU9gij6zyHTkv-TFOPrFS5aXsUgwBnm_YBXsROZEhWi1t0RxDXrzdbIwehL83oqWvGUZoaCbvW3yBUlfiQvXJdi4HvBwAZdfGO5uXYQJ7brnljjxXbp2FaL35p7-XGBGuFJfMs/s500/ES01-WELCOME.jpg"
+      },
+      {
+         "label": "Notifikasi Promo",
+         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh-ik3d-Iqm9eelAmu62xOqiCav091Sc5Tj9nfzK9GHqm5jWq4N2QvHvOYYzqKSzT8xbMVDu46y52OFSNGMOHy5dB3b8ififBMWW1xQQ7W6f1Zn5t_Lc_vDyts8aBGNyJK3I8qA-dFPM-2gq03FNorXAJ0lK0ZmRBR3GHTdtmjXwGDoixaU5wmWHHQQ10/s500/ES-NOTIFICATION-PROMOTION.jpg"
+      },
+      {
+         "label": "Homepage",
+         "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxX4lCmeuJPcNka1FOx-tHZoppEHaxmUxm46cBFbPpyz1fTihYPViPGPzqfnqAlOPHs5UwvynaNGTDTU0iBt_-B235xfkQgymR30rSovgqFcCMACVflaVfwrHEij9xO9p9UqoB1X4TaB-QKlbBMg0oVH2WX0yaVMICZ0KUTYWDnMI338wc-fwEJH_47Ko/s500/ES-HOMEPAGE-MODE-TERANG.jpg"
+      }
+   ]
+}
